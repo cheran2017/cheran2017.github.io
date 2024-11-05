@@ -55,9 +55,9 @@ document.addEventListener("visibilitychange", function () {
 var typed = new Typed(".typing-text", {
   strings: [
     "Web Designer",
-    "Web Developer",
     "Front-End Developer",
-    "Backedn Developer",
+    "Web Developer",
+    "Backend Developer",
     "Solution Architect",
     "Wordpress Developer",
     "Drupal Developer",
